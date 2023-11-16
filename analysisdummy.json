@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "AKD (Hisse Bazlı)",
+      "description": "İşlem yapan banka ve diğer aracı kurumların gün içerisindeki alım ve satım miktarlarını görüntüleyin."
+    },
+    {
+      "id": 2,
+      "title": "Hızlı Takas",
+      "description": "Banka ve diğer aracı kurumların ellerinde bulundurdukları takas miktarlarını görüntüleyin."
+    },
+    {
+      "id": 3,
+      "title": "Kademe Analizi",
+      "description": "Her bir fiyat kademesinde gerçeklesmiş alım ve satım miktarlarını görüntüleyin."
+    },
+    {
+      "id": 4,
+      "title": "Pivot Analizi",
+      "description": "Fiyatın tepki gösterebileceği temel seviyeleri inceleyin."
+    },
+    {
+      "id": 5,
+      "title": "Akıllı Sinyaller",
+      "description": "Farklı periyotlarda ürettiğimiz teknik sinyalleri görüntüleyin."
+    },
+    {
+      "id": 6,
+      "title": "Döviz Çevirici",
+      "description": "Miktar girerek diğer kurlar arasında çevirim işlemi yapabilirsiniz."
+    },
+    {
+      "id": 7,
+      "title": "Sıcaklık Haritası",
+      "description": "İşlem yapmak veya takip etmek istediğiniz verilerin büyüklüklerini işlem hacimlerine göre görüntüleye..."
+    }
+  ]
+}
